@@ -1,0 +1,335 @@
+{
+    "hindi": [
+        {
+            "id": "1",
+            "english": "a",
+            "hindi": "अ (a) = अ से अनार",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "hindi": "आ (aa) = आ से आम",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "hindi": "इ (i) = इ से इमली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "ई (ee) = ई से ईंख",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "hindi": "उ (u) = उ से उल्लू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "ऊ (uu) = ऊ से ऊन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "hindi": "ए (ay) = ए से एड़ी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "hindi": "ऐ (ai) = ऐ से ऐनक",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "hindi": "ओ (o) = ओ से ओखली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "hindi": "औ (ow) = औ से औरत",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "hindi": "अँ (ang) = अँ से अंगूर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "hindi": "अः (aha) = अः से कुछ नहीं",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "hindi": "ऋ (hri) = ऋ से ऋषि",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "hindi": "क (ka) = क से कबूतर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "hindi": " ख (kha) = ख से खरगोश",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "hindi": "ग (ga) = ग से गाजर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "hindi": " घ (gha) = घ से घर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "hindi": " ङ (ang) = ङ से ङ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "hindi": "च (cha) = च से चम्मच",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "hindi": "छ (chha) = छ से छाता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "hindi": " ज (ja) = ज से जहाज",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "hindi": "झ (jha) = झ से झंडा",
+            "desc": "",
+            "status": true
+        }
+
+
+        ,
+        {
+            "id": "23",
+            "hindi": "ञ (nya) = ञ से ञ",
+            "desc": "",
+            "status": true
+        }
+
+        ,
+        {
+            "id": "24",
+            "hindi": "ट (ta) = ट से टमाटर",
+            "desc": "",
+            "status": true
+        }
+
+        ,
+        {
+            "id": "25",
+            "hindi": "ठ (tha) = ठ से ठप्पा",
+            "desc": "",
+            "status": true
+        }
+
+        ,
+        {
+            "id": "26",
+            "hindi": "ड (da) = ड से डमरु",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "27",
+            "hindi": " ढ (dha) = ढ से ढोल",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "28",
+            "hindi": "ण (rna) = ण से ण",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "29",
+            "hindi": "त (ta) = त से तरबूज",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "30",
+            "hindi": "थ (tha) = थ से थरमस",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "31",
+            "hindi": "द (da) = द से दवात",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "32",
+            "hindi": "ध (dha) = ध से धनुष",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "33",
+            "hindi": "न (na) = न से नल",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "34",
+            "hindi": "प (pa) = प से पतंग",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "35",
+            "hindi": "फ (pha) = फ से फूल",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "36",
+            "hindi": "ब (ba) = ब से बतख",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "37",
+            "hindi": "भ (bha) = भ से भालू",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "38",
+            "hindi": " म (ma) = म से मछली",
+            "desc": "",
+            "status": true
+        }
+
+        ,
+        {
+            "id": "39",
+            "hindi": "य (ya) = य से योग",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "40",
+            "hindi": "र (ra) = र से रेलगाड़ी",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "41",
+            "hindi": "ल (la) = ल से लड़का",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "42",
+            "hindi": "  व (va) = व से वजन",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "43",
+            "hindi": "श (sha) = श से शलगम",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "44",
+            "hindi": " ष (sha) = ष से षटकोंण",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "45",
+            "hindi": "स (sa) = स से संतरा",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "46",
+            "hindi": "ह (ha) = ह से हाथ",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "47",
+            "hindi": "क्ष (ksha) = क्ष से क्षत्रिय",
+            "desc": "",
+            "status": true
+        }
+
+
+        ,
+        {
+            "id": "48",
+            "hindi": "त्र (tra) = त्र से त्रिशूल",
+            "desc": "",
+            "status": true
+        }
+        ,
+        {
+            "id": "49",
+            "hindi": "ज्ञ (gya) = ज्ञ से ज्ञान",
+            "desc": "",
+            "status": true
+        }
+
+    ]
+}

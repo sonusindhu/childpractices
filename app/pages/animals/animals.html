@@ -1,0 +1,58 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Animals name</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                <button primary clear small (click)="playAnimal('english')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play in English</div>
+                </button>
+
+            </ion-col>
+            <ion-col>
+                <button primary clear small (click)="playAnimal('hindi')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div><div>Play in Hindi</div></div>
+                </button>
+            </ion-col>
+        </ion-row>
+        
+        <img src="api/images/animals/{{ aData[aindex].id }}.jpg">
+        <ion-card-content>
+            <p>ENGLISH : {{aData[aindex].english}}</p>
+            <p>HINDI : {{aData[aindex].hindi}}</p>
+        </ion-card-content>
+
+        <ion-row>
+            <ion-col *ngIf="aindex">
+
+                <button (click)="prevAnimal()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+
+
+            </ion-col>
+            <ion-col *ngIf="aindex<aData.length-1">
+
+                <button  style="float:right;" (click)="nextAnimal()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+
+
+            </ion-col>
+        </ion-row>
+
+    </ion-card>
+</ion-content>

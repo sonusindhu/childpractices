@@ -1,0 +1,46 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>English Alphabets</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content class="card-background-page">
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                
+                <button primary clear small onclick="responsiveVoice.speak('Hello');">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play</div>
+                </button>
+<!--                <button primary clear small (click)="playFlag('name')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play</div>
+                    
+                </button>-->
+                
+            </ion-col>
+        </ion-row>
+        <img height="300" src="api/images/flags/{{flags[fgindex].image}}">
+        <ion-card-content>
+            <h1 class="card-title-english">Country : <bold>{{flags[fgindex].name}}</bold></h1>
+        </ion-card-content>
+        <ion-row>
+            <ion-col *ngIf="fgindex">
+                <button (click)="prevFlag()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+            </ion-col>
+            <ion-col *ngIf="fgindex<flags.length-1">
+                <button  style="float:right;" (click)="nextFlag()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+            </ion-col>
+        </ion-row>
+    </ion-card>
+</ion-content>
+

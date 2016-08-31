@@ -1,0 +1,58 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Birds name</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                <button primary clear small (click)="playBird('english')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play in English</div>
+                </button>
+
+            </ion-col>
+            <ion-col>
+                <button primary clear small (click)="playBird('hindi')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div><div>Play in Hindi</div></div>
+                </button>
+            </ion-col>
+        </ion-row>
+        
+        <img src="api/images/birds/{{ bData[bindex].id }}.jpg">
+        <ion-card-content>
+            <h2>{{bData[bindex].english}}</h2>
+            <h2>{{bData[bindex].hindi}}</h2>
+        </ion-card-content>
+
+        <ion-row>
+            <ion-col *ngIf="bindex">
+
+                <button (click)="prevBird()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+
+
+            </ion-col>
+            <ion-col *ngIf="bindex<bData.length-1">
+
+                <button  style="float:right;" (click)="nextBird()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+
+
+            </ion-col>
+        </ion-row>
+
+    </ion-card>
+</ion-content>

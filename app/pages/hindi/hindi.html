@@ -1,0 +1,46 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Hindi Alphabets</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+
+
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                <button primary clear small (click)="playHindi('hindi')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div><div>Play in Hindi</div></div>
+                </button>
+            </ion-col>
+        </ion-row>
+        <img src="api/images/hindi/{{hindi[hindex].id}}.gif">
+        <ion-card-content>
+            <p class="card-title-hindi">HINDI : {{hindi[hindex].hindi}}</p>
+        </ion-card-content>
+
+
+        <ion-row>
+            <ion-col *ngIf="hindex">
+                <button (click)="prevHindi()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+            </ion-col>
+            <ion-col *ngIf="hindex<hindi.length-1">
+                <button  style="float:right;" (click)="nextHindi()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+
+            </ion-col>
+
+        </ion-row>
+    </ion-card>
+</ion-content>
+

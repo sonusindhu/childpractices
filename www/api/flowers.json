@@ -1,0 +1,193 @@
+{
+    "flowers": [
+        {
+            "id": "1",
+            "english": "Jasmine",
+            "hindi": "चमेली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Rose",
+            "hindi": "गुलाब",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Lotus",
+            "hindi": "कमल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Lily , Red Lotus",
+            "hindi": "कुमुदिनी , कुमुद",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Marigold",
+            "hindi": "गेंदे का फूल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Hibiscus",
+            "hindi": "गुढ़ल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Frangipani, Magnolia",
+            "hindi": "चम्पा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Cypress Vine, Star Glory",
+            "hindi": "कामलता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Sunflower",
+            "hindi": "सूरजमुखी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "Oleander",
+            "hindi": "कनेर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Periwinkle",
+            "hindi": "सदाबहार",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Blue Water Lily",
+            "hindi": "नीलकमल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "Cobra Saffron",
+            "hindi": "नाग चम्पा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "Touch-Me-Not",
+            "hindi": "छूईमूई",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "Balsam",
+            "hindi": "गुल मेहँदी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "Chrysanthemum",
+            "hindi": "गुलदाउदी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Daisy",
+            "hindi": "गुलबहार",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "english": "Erythrina",
+            "hindi": "पारिजात",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "english": "Flax",
+            "hindi": "सन, पटसन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "english": "Hiptage",
+            "hindi": " माधवी पुष्प",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "english": "Mushroom",
+            "hindi": "कुकुरमुत्ता, छत्रक, छत्ता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "english": "Motia",
+            "hindi": "मोतिया",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "english": "Murraya",
+            "hindi": "कामिनी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "english": "Narcissus",
+            "hindi": "नर्गिस",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "english": "Poppy",
+            "hindi": "खसखस, अफ़ीम",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "english": "Prickly Pear",
+            "hindi": "नागफनी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "27",
+            "english": "Stramonium, Datura",
+            "hindi": "धतूरा",
+            "desc": "",
+            "status": true
+        }
+    ]
+}

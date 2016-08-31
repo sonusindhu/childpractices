@@ -1,0 +1,41 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>English Alphabets</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content class="card-background-page">
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                <button primary clear small (click)="playEnglish('capital')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play</div>
+                    
+                </button>
+                
+            </ion-col>
+        </ion-row>
+        <img height="300" src="api/images/english/{{english[eindex].id}}.png">
+        <ion-card-content>
+            <!--<p class="card-title-english">{{english[eindex].capital}} , {{english[eindex].small}}</p>-->
+        </ion-card-content>
+        <ion-row>
+            <ion-col *ngIf="eindex">
+                <button (click)="prevEnglish()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+            </ion-col>
+            <ion-col *ngIf="eindex<english.length-1">
+                <button  style="float:right;" (click)="nextEnglish()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+            </ion-col>
+        </ion-row>
+    </ion-card>
+</ion-content>
+

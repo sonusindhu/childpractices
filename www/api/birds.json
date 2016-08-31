@@ -1,0 +1,291 @@
+{
+    "birds": [
+        {
+            "id": "1",
+            "english": "Cock",
+            "hindi": "मुर्गा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Crane, Adjutant, Stork",
+            "hindi": "सारस",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Crow",
+            "hindi": "कौवा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Cuckoo",
+            "hindi": "कोयल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Dove",
+            "hindi": "कबूतर , फाख्ता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Duck",
+            "hindi": "बत्ख",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Eagle",
+            "hindi": "चील",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Hen",
+            "hindi": "मुर्गी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Kingfisher",
+            "hindi": "राम चिरैया",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "Kite",
+            "hindi": "चील",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Mynah",
+            "hindi": "मैना",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Ostrich",
+            "hindi": "शुतरमुर्ग",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "Owl",
+            "hindi": "उल्लु",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "Parrot",
+            "hindi": "तोता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "Peacock",
+            "hindi": "मोर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "Pigeon",
+            "hindi": "कबूतर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Skylark",
+            "hindi": "चकता, अबाबील",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "english": "Sparrow",
+            "hindi": "गौरेया",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "english": "Swan",
+            "hindi": "हंस",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "english": "Woodpecker",
+            "hindi": "कठफोडवा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "english": "Quail",
+            "hindi": "बटेर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "english": "Vulture",
+            "hindi": "गीद्ध",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "english": "Nightingale",
+            "hindi": "बुलबुल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "english": "Bat",
+            "hindi": "चमगादड़",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "english": "Bittern",
+            "hindi": "बगुले जैसा पक्षी, जुनबगला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "english": "Chicken",
+            "hindi": "चूज़ा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "27",
+            "english": "Cygnet",
+            "hindi": "हंस का बच्चा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "28",
+            "english": "Cockatoo",
+            "hindi": "काकातुआ, किंकिरात",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "29",
+            "english": "Duckling",
+            "hindi": "बतख का बच्चा, छोटा बत्तख़",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "30",
+            "english": "Drake",
+            "hindi": "नर बत्तक",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "31",
+            "english": "Falcon, Hawk, Fowl",
+            "hindi": "बाज़",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "32",
+            "english": "Goose",
+            "hindi": "हंस, कलहंस",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "33",
+            "english": "Heron",
+            "hindi": "बगुला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "34",
+            "english": "Jay, Magpie",
+            "hindi": "नीलकंठ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "35",
+            "english": "Lark",
+            "hindi": "भारव्दाज़ पक्षी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "36",
+            "english": "Macaw",
+            "hindi": "एक प्रकार का तोता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "37",
+            "english": "Partridge, Pheasant",
+            "hindi": "तीतर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "38",
+            "english": "Peahen",
+            "hindi": "मोरनी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "39",
+            "english": "Rook",
+            "hindi": "कौआ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "40",
+            "english": "Raven",
+            "hindi": "काला कौआ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "41",
+            "english": "Weaver",
+            "hindi": "बयापक्षी",
+            "desc": "",
+            "status": true
+        }
+    ]
+}

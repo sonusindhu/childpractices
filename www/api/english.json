@@ -1,0 +1,186 @@
+{
+    "english": [
+        {
+            "id": "1",
+            "capital": "A",
+            "small": "a",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "capital": "B",
+            "small": "b",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "capital": "C",
+            "small": "c",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "capital": "D",
+            "small": "d",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "capital": "E",
+            "small": "e",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "capital": "F",
+            "small": "f",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "capital": "G",
+            "small": "g",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "capital": "H",
+            "small": "h",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "capital": "I",
+            "small": "i",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "capital": "J",
+            "small": "j",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "capital": "K",
+            "small": "k",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "capital": "L",
+            "small": "l",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "capital": "M",
+            "small": "m",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "capital": "N",
+            "small": "n",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "capital": "O",
+            "small": "o",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "capital": "P",
+            "small": "p",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "capital": "Q",
+            "small": "q",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "capital": "R",
+            "small": "r",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "capital": "S",
+            "small": "s",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "capital": "T",
+            "small": "t",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "capital": "U",
+            "small": "u",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "capital": "V",
+            "small": "v",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "capital": "W",
+            "small": "w",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "capital": "X",
+            "small": "x",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "capital": "Y",
+            "small": "y",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "capital": "Z",
+            "small": "z",
+            "desc": "",
+            "status": true
+        }
+    ]
+}

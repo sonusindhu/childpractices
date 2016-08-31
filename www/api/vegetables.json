@@ -1,0 +1,263 @@
+{
+    "vegetables": [
+        {
+            "id": "1",
+            "english": "Beetroot",
+            "hindi": "चुकंदर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Bitter melon",
+            "hindi": "करेला ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Bottle gourd",
+            "hindi": "लौकी (Laukii)",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Cabbage",
+            "hindi": "बंद गोभी  OR पत्ता गोभी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Capsicum",
+            "hindi": "शिमला मिर्च ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Carrot",
+            "hindi": "गाजर ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Cauliflower",
+            "hindi": "फूल-गोभी ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Corn",
+            "hindi": "भुट्टा OR मक्का",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Cucumber",
+            "hindi": "खीरा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "Curry Leaf",
+            "hindi": "मीठी नीम ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Eggplant",
+            "hindi": "बैंगन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Fenugreek Leaf",
+            "hindi": "हरी मेथी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "Garlic",
+            "hindi": "लहसुन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "Ginger",
+            "hindi": "अदरक",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "Green Beans",
+            "hindi": "चोरा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "Curry Leaf",
+            "hindi": "मीठी नीम",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Green Chili",
+            "hindi": "हरी मिर्च",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "english": "Indian Gooseberry",
+            "hindi": "आँवला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "english": "Jackfruit",
+            "hindi": "कटहल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "english": "Mint Leaf",
+            "hindi": "हरा पुदीना",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "english": "Mushroom",
+            "hindi": "खुंबी , कुकुरमुत्ता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "english": "Mustard Green",
+            "hindi": "सरसों का साग",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "english": "Natal Plum",
+            "hindi": "करोंदा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "english": "Ladyfinger or Okra or Okro",
+            "hindi": "भिंडी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "english": "Onion",
+            "hindi": "प्याज",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "english": "Pea",
+            "hindi": "मटर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "27",
+            "english": "Pointed Gourd",
+            "hindi": "परवल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "28",
+            "english": "Potato",
+            "hindi": "आलू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "29",
+            "english": "Pumpkin",
+            "hindi": "कद्दू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "30",
+            "english": "Radish",
+            "hindi": "मूली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "31",
+            "english": "Red Chili",
+            "hindi": "लाल मिर्च",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "32",
+            "english": "Ridge Gourd",
+            "hindi": "तुरई",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "33",
+            "english": "Snake Cucumber",
+            "hindi": "ककड़ी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "34",
+            "english": "Spring Onion",
+            "hindi": "हरा प्याज",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "35",
+            "english": "Sweet Potato",
+            "hindi": "शकरकंद",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "36",
+            "english": "Tomato",
+            "hindi": "टमाटर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "37",
+            "english": "Turnip",
+            "hindi": "शलगम",
+            "desc": "",
+            "status": true
+        }        
+    ]
+}

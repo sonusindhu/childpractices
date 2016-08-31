@@ -1,0 +1,305 @@
+{
+    "animals": [
+        {
+            "id": "1",
+            "english": "Ant",
+            "hindi": "चींटी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Bear",
+            "hindi": "भालू ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Buffalo",
+            "hindi": "भैंस",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Butterfly",
+            "hindi": "तितली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Camel",
+            "hindi": "उंट",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Cat",
+            "hindi": "बिल्ली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Chameleon",
+            "hindi": "गिरगिट",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Chimpanzee",
+            "hindi": "चिंपांज़ी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Cow",
+            "hindi": "गाय",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "Crab",
+            "hindi": "केंकड़ा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Crocodile",
+            "hindi": "मगरमच्छ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Deer",
+            "hindi": "हिरन्",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "Dog",
+            "hindi": "कुत्ता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "Donkey",
+            "hindi": "गधा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "Elephant",
+            "hindi": "हाथी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "Fox",
+            "hindi": "लोमड़ी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Frog",
+            "hindi": "मेंडक",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "english": "Goat",
+            "hindi": "बकरी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "english": "Gorilla",
+            "hindi": "वन मानुष",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "english": "Hippopotamus",
+            "hindi": "दरियाई घोड़ा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "english": "Horse",
+            "hindi": "घोडा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "english": "Jackal",
+            "hindi": "सियार",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "english": "Lion",
+            "hindi": "सिंह्",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "english": "Lizard",
+            "hindi": "छिपकली",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "english": "Mongoose",
+            "hindi": "नेवला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "english": "Monkey",
+            "hindi": "बन्दर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "27",
+            "english": "Mosquito",
+            "hindi": "मच्छर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "28",
+            "english": "Mouse, Rat",
+            "hindi": "चूहा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "29",
+            "english": "Ox",
+            "hindi": "बैल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "30",
+            "english": "Pig",
+            "hindi": "सुअर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "31",
+            "english": "Polar Bear",
+            "hindi": "ध्रुवीय भालू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "32",
+            "english": "Rabbit, Hare",
+            "hindi": "खरगोश्",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "33",
+            "english": "Rhinoceros",
+            "hindi": "गैंडा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "34",
+            "english": "Sheep",
+            "hindi": "भेड्",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "35",
+            "english": "Snail",
+            "hindi": "घोंघा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "36",
+            "english": "Snake",
+            "hindi": "सर्प, साँप",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "37",
+            "english": "Spider",
+            "hindi": "मकडी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "38",
+            "english": "Squirrel",
+            "hindi": "गिलहरी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "39",
+            "english": "Tiger, Panther, Leopard, Cheetah",
+            "hindi": "तेंदुआ, चीता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "40",
+            "english": "Turtle",
+            "hindi": "कछुआ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "41",
+            "english": "Wolf",
+            "hindi": "भेड़िया",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "42",
+            "english": "Giraffe",
+            "hindi": "जिराफ़",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "43",
+            "english": "Zebra",
+            "hindi": "ज़ेबरा, धारीदार घोडा",
+            "desc": "",
+            "status": true
+        }
+    ]
+}

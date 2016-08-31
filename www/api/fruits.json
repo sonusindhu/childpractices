@@ -1,0 +1,494 @@
+{
+    "fruits": [
+        {
+            "id": "1",
+            "english": "Acai Berry",
+            "hindi": "काला जामुन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Apple",
+            "hindi": "सेब ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Apricot",
+            "hindi": "खुबोनी/ज़र्दालू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Avocado or butterfruit",
+            "hindi": "मक्खन फल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Cantaloupe Melon",
+            "hindi": "खरबूजा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Bael",
+            "hindi": "बेल ",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Banana",
+            "hindi": "केला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Bell Fruit",
+            "hindi": "हरा जामुन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Carambola",
+            "hindi": "कमरख",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "Berry , zizyphus",
+            "hindi": "बैर, बेर,बोर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Bitter Orange",
+            "hindi": "कड़वी नारंगी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Bitter Watermelon",
+            "hindi": "कड़वा तरबूज",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "Black berry",
+            "hindi": "जामून",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "Blackcurrant",
+            "hindi": "फ़ालसा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "Orange",
+            "hindi": "नारंगी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "Blueberry",
+            "hindi": "नीलबद्री",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Cantaloupe",
+            "hindi": "मक्खनफल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "18",
+            "english": "Cherry",
+            "hindi": "ग्लास मेवा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "19",
+            "english": "Chikoo",
+            "hindi": "चीकू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "20",
+            "english": "Citron",
+            "hindi": "चकोतरा, खट्टा नींबू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "21",
+            "english": "Coconut",
+            "hindi": "खोपरा, नारियल गोला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "22",
+            "english": "Crab Apple",
+            "hindi": "केकड़ा सेब",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "23",
+            "english": "Cranberry",
+            "hindi": "करौंदा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "24",
+            "english": "Custard apple",
+            "hindi": "शरीफा, सीताफल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "25",
+            "english": "Damson",
+            "hindi": "आलूबुखारा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "26",
+            "english": "Dates",
+            "hindi": "खजूर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "27",
+            "english": "Devil Fig",
+            "hindi": "शैतान अंजीर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "28",
+            "english": "Gooseberry",
+            "hindi": "इंडियन(एमबिलिका) करौंदा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "29",
+            "english": "Grapefruit, pomelo, shaddock, citron",
+            "hindi": "चकोतरा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "30",
+            "english": "Grapes",
+            "hindi": "अंगूर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "31",
+            "english": "Grewia asiatica",
+            "hindi": "फालसा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "32",
+            "english": "Graviola fruit",
+            "hindi": "रामफल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "33",
+            "english": "Guava",
+            "hindi": "अमरूद",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "34",
+            "english": "Jambolan",
+            "hindi": "जामुन",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "35",
+            "english": "Jujube",
+            "hindi": "बेर",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "36",
+            "english": "Kiwi",
+            "hindi": "कीवी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "37",
+            "english": "Kumquat",
+            "hindi": "सन्तरे जैसा छोटा फल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "38",
+            "english": "Longan",
+            "hindi": "पीचू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "39",
+            "english": "Loquat",
+            "hindi": "लोकाट",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "40",
+            "english": "Lychee",
+            "hindi": "लीची",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "41",
+            "english": "Mango",
+            "hindi": "आम",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "42",
+            "english": "Water Melon",
+            "hindi": "तरबूज",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "43",
+            "english": "Mulberry",
+            "hindi": "शहतूत",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "44",
+            "english": "Muskmelon",
+            "hindi": "खरबूजा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "45",
+            "english": "Naseberry",
+            "hindi": "चीकू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "46",
+            "english": "Natal Plum",
+            "hindi": "करौंदा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "47",
+            "english": "Nectarine",
+            "hindi": "शफ्तालू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "48",
+            "english": "Noni",
+            "hindi": "भारतीय शहतूत",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "49",
+            "english": "Palm",
+            "hindi": "ताड़ का फल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "50",
+            "english": "Papaya",
+            "hindi": "पपीता",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "51",
+            "english": "Peach",
+            "hindi": "आड़ू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "52",
+            "english": "Pear",
+            "hindi": "नाशपाती",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "53",
+            "english": "Persimmon",
+            "hindi": "तेंदु फल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "54",
+            "english": "Pineapple",
+            "hindi": "अनानास",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "55",
+            "english": "Plantain",
+            "hindi": "केला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "56",
+            "english": "Plum, Sloe",
+            "hindi": "आलूबुखारा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "57",
+            "english": "Pomegranate",
+            "hindi": "अनार",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "58",
+            "english": "Pomelo",
+            "hindi": "चकोतरा",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "59",
+            "english": "Pyrus communis",
+            "hindi": "नाशपाती",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "60",
+            "english": "Quince",
+            "hindi": "श्रीफल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "61",
+            "english": "Raspberry",
+            "hindi": "रसभरी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "62",
+            "english": "Sapodilla or Sapota",
+            "hindi": "चीकू",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "63",
+            "english": "Soursop",
+            "hindi": "लक्षमण फल / शुल-राम फल",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "64",
+            "english": "Star Fruit",
+            "hindi": "कमरख, करम्बोला",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "65",
+            "english": "Strawberry",
+            "hindi": "स्ट्रॉबेरी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "66",
+            "english": "Sugar Cane",
+            "hindi": "गन्ना",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "67",
+            "english": "Sweet Lime",
+            "hindi": "मौसंबी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "68",
+            "english": "Sweet Potato",
+            "hindi": "शकर कन्द",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "69",
+            "english": "Tangerine",
+            "hindi": "सन्तरा, नारंगी",
+            "desc": "",
+            "status": true
+        },
+        {
+            "id": "70",
+            "english": "Water chestnut",
+            "hindi": "सिंघाड़ा",
+            "desc": "",
+            "status": true
+        }
+    ]
+}
