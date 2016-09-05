@@ -1,0 +1,123 @@
+{
+    "colors": [
+        {
+            "id": "1",
+            "english": "Black",
+            "hindi": "काला",
+            "desc": "#000000",
+            "status": true
+        },
+        {
+            "id": "2",
+            "english": "Blue",
+            "hindi": "नीला",
+            "desc": "#0000ff",
+            "status": true
+        },
+        {
+            "id": "3",
+            "english": "Brown",
+            "hindi": "भूरा",
+            "desc": "#A52A2A",
+            "status": true
+        },
+        {
+            "id": "4",
+            "english": "Green",
+            "hindi": "हरा",
+            "desc": "#008000",
+            "status": true
+        },
+        {
+            "id": "5",
+            "english": "Grey",
+            "hindi": "धूसर, स्लेटी",
+            "desc": "#808080",
+            "status": true
+        },
+        {
+            "id": "6",
+            "english": "Orange",
+            "hindi": "नारंगी",
+            "desc": "#FFA500",
+            "status": true
+        },
+        {
+            "id": "7",
+            "english": "Pink",
+            "hindi": "गुलाबी",
+            "desc": "#FFC0CB",
+            "status": true
+        },
+        {
+            "id": "8",
+            "english": "Purple",
+            "hindi": "बैगनी",
+            "desc": "#800080",
+            "status": true
+        },
+        {
+            "id": "9",
+            "english": "Red",
+            "hindi": "लाल",
+            "desc": "#FF0000",
+            "status": true
+        },
+        {
+            "id": "10",
+            "english": "White",
+            "hindi": "सफ़ेद",
+            "desc": "#FFFFFF",
+            "status": true
+        },
+        {
+            "id": "11",
+            "english": "Yellow",
+            "hindi": "पीला",
+            "desc": "#ffff00",
+            "status": true
+        },
+        {
+            "id": "12",
+            "english": "Violet",
+            "hindi": "बैंगनी",
+            "desc": "#EE82EE",
+            "status": true
+        },
+        {
+            "id": "13",
+            "english": "dark brown",
+            "hindi": "गहरा भूरा",
+            "desc": "#835C3B",
+            "status": true
+        },
+        {
+            "id": "14",
+            "english": "navy blue",
+            "hindi": "गहरा नीला",
+            "desc": "#000080",
+            "status": true
+        },
+        {
+            "id": "15",
+            "english": "silver",
+            "hindi": "चांदी",
+            "desc": "#C0C0C0",
+            "status": true
+        },
+        {
+            "id": "16",
+            "english": "golden",
+            "hindi": "सुनहरा",
+            "desc": "#DAA520",
+            "status": true
+        },
+        {
+            "id": "17",
+            "english": "Maroon",
+            "hindi": "मैरुन",
+            "desc": "#800000",
+            "status": true
+        }   
+    ]
+}

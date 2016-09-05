@@ -1,0 +1,50 @@
+<ion-header>
+    <ion-navbar>
+        <button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Colors name</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <ion-card >
+        <ion-row>
+            <ion-col>
+                <button primary clear small (click)="playColor('english')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div>Play in English</div>
+                </button>
+
+            </ion-col>
+            <ion-col>
+                <button primary clear small (click)="playColor('hindi')">
+                        <ion-icon name="ios-musical-notes"></ion-icon>
+                    <div><div>Play in Hindi</div></div>
+                </button>
+            </ion-col>
+        </ion-row>
+        
+        <!--<img src="api/images/vegetables/{{ colors[clindex].id }}.jpg">-->
+        <ion-card-content>
+            <div [style.height]="'250px'" [style.width]="'100%'" [style.background]="colors[clindex].desc"  ></div>
+            <p>{{colors[clindex].english}} - {{colors[clindex].hindi}}</p>
+        </ion-card-content>
+        <ion-row>
+            <ion-col *ngIf="clindex">
+                <button (click)="prevColor()">
+                    <ion-icon name="rewind"></ion-icon>
+                    PREV
+                </button>
+
+            </ion-col>
+            <ion-col *ngIf="clindex<colors.length-1">
+
+                <button  style="float:right;" (click)="nextColor()">
+                    NEXT
+                    <ion-icon name="fastforward"></ion-icon>
+                </button>
+            </ion-col>
+        </ion-row>
+    </ion-card>
+</ion-content>

@@ -1,4 +1,5 @@
 
+
 import {Component, ViewChild} from '@angular/core';
 import {ionicBootstrap, Platform, MenuController, Nav} from 'ionic-angular';
 import {StatusBar} from 'ionic-native';
@@ -12,6 +13,7 @@ import {TreesPage} from './pages/trees/trees';
 import {HindiPage} from './pages/hindi/hindi';
 import {EnglishPage} from './pages/english/english';
 import {FlagsPage} from './pages/flags/flags';
+import {ColorsPage} from './pages/colors/colors';
 
 
 @Component({
@@ -41,6 +43,7 @@ class MyApp {
       { title: 'Flowers', component: FlowersPage,icon:"img/icons/flowers.png" },
       { title: 'Birds', component: BirdsPage,icon:"img/icons/birds.png" },
       { title: 'Trees', component: TreesPage,icon:"img/icons/trees.png" },
+      { title: 'Colors', component: ColorsPage,icon:"img/icons/colors.png" },
       { title: 'Country Flags', component: FlagsPage,icon:"img/icons/flags.png" }
     ];
   }
