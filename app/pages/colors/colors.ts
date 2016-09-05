@@ -29,7 +29,7 @@ export class ColorsPage {
   
  
   
-  
+   
 nextColor(){
    this.clindex++;
 }
